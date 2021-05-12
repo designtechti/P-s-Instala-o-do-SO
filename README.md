@@ -1,5 +1,7 @@
 # Pós-Instalação do SO
 
+![Banner](banner.jpeg)
+
 Automatização de instalação do Ubuntu
 
 Certique-se do arquivo ter permissões de execução.
