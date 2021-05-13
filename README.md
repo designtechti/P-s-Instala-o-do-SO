@@ -6,6 +6,8 @@ Automatização de instalação do Ubuntu
 
 Certique-se do arquivo ter permissões de execução.
 
+	chmod +x ./script.sh
+
 Para utilizar o Script, basta rodar o comando:
 
 	sudo ./script.sh
